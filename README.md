@@ -1,2 +1,1 @@
-Streamlit tutorial for the youtube video
-https://www.youtube.com/watch?v=1oVy2-fsqF4
+Time Series Forecasting example project on web with streamlit and heroku
